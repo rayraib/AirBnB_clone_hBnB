@@ -22,3 +22,4 @@ database, storage, RESTful API, Web Framework, and Front End.  This repository c
   * __bash:__ ShellCheck 0.3.3
 
 <img src="https://github.com/jarehec/AirBnB_clone_v3/blob/master/dev/hbnb_step5.png" />
+<img src="https://github.com/rayraib/AirBnB_clone_hBnB/blob/master/hbnb.png" />
