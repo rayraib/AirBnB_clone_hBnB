@@ -1,4 +1,4 @@
-<img src="https://github.com/jarehec/AirBnB_clone_v3/blob/master/dev/HBTN-hbnb-Final.png" width="160" height=auto />
+<img src="https://github.com/jarehec/AirBnB_clone_v3/blob/master/dev/HBTN-hbnb-Final.png" width="160" height=auto /> 
 
 # AirBnB Clone
 
@@ -10,6 +10,14 @@
 
 Project attempts to clone the the AirBnB application and website, including the
 database, storage, RESTful API, Web Framework, and Front End.  This repository consists different stages/versions of the project. Description of each stage with tools, setup, and relevent description in each repo:
+
+Version1: [AirBnB_clone](https://github.com/rayraib/AirBnB_clone.git)
+
+Version2: [AirBnB_clone_v2](https://github.com/rayraib/AirBnB_clone_v2.git)
+
+Version3: [AirBnB_clone_v3](https://github.com/rayraib/AirBnB__clone_v3.git)
+
+Version4: [AirBnB_clone_v4](https://github.com/rayraib/AirBnB_clone_v4.git)
 
 ## Environment
 
